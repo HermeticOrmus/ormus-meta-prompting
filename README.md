@@ -237,6 +237,17 @@ This framework is one answer. It takes the chaos of prompt engineering and appli
 
 ---
 
+## Related
+
+Part of the **ormus session lifecycle** — composable Claude Code skills:
+
+- [ormus-handoff](https://github.com/HermeticOrmus/ormus-handoff) — capture session state before context limits or machine switches
+- [ormus-pickup](https://github.com/HermeticOrmus/ormus-pickup) *(coming soon)* — restore context from a HANDOFF file
+- [ormus-absorb](https://github.com/HermeticOrmus/ormus-absorb) — distill conversation knowledge into persistent memory
+- [ormus-explore](https://github.com/HermeticOrmus/ormus-explore) — token-efficient AST-based code search
+
+---
+
 ## Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
